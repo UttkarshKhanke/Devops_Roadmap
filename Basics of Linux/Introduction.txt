@@ -1,0 +1,7 @@
+Linux is widely used in DevOps for server management, automation, and CI/CD pipelines. You need to be comfortable with:
+✅ Linux File System & Directories (/, /home, /var, /etc, /bin)
+✅ File Manipulation (ls, cp, mv, rm, find, grep, cat, touch, echo)
+✅ Process Management (ps, top, htop, kill, pkill, nice, renice)
+✅ Permissions (chmod, chown, umask)
+✅ Package Management (apt, yum, dnf)
+✅ Bash Scripting Basics
