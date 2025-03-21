@@ -1,0 +1,4 @@
+cat file.txt  # Show file contents  
+less file.txt  # Scroll through file  
+grep "pattern" file.txt  # Search for pattern in file  
+find / -name "file.txt"  # Find files  
