@@ -1,0 +1,7 @@
+pwd            # Print current directory  
+ls -l         # List files with details  
+cd /path/to/dir  # Change directory  
+mkdir newdir  # Create a directory  
+rm -rf dir/   # Remove directory and files  
+cp file1 file2  # Copy files  
+mv file1 newfile  # Move/Rename files  

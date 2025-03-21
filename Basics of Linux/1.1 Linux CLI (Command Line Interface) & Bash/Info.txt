@@ -1,0 +1,1 @@
+Linux CLI is all about running commands directly from the terminal. Bash (Bourne Again Shell) is the most popular shell in Linux.
