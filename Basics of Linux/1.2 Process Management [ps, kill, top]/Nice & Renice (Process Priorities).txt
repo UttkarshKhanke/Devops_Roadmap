@@ -1,0 +1,2 @@
+nice -n 10 ./script.sh  # Run script with lower priority  
+renice -n -5 <PID>      # Increase priority of running process  
