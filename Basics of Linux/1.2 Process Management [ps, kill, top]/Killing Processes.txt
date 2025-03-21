@@ -1,0 +1,2 @@
+kill <PID>   # Kill a process by PID  
+pkill -9 process_name  # Kill all processes with a given name  
