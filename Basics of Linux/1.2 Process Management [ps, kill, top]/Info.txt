@@ -1,0 +1,1 @@
+Linux runs processes in the background. Managing them is crucial.

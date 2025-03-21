@@ -1,0 +1,3 @@
+ps aux      # List all processes  
+top         # Real-time process monitoring  
+htop        # Interactive process viewer (install using `apt install htop`)
