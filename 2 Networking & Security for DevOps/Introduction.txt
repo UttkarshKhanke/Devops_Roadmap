@@ -1,0 +1,1 @@
+Networking is critical in DevOps because everything runs on servers, containers, and cloud environments. You need to understand how data flows, how services communicate, and how to secure them.
