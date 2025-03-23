@@ -1,0 +1,3 @@
+sudo yum install httpd  # Install Apache  
+sudo yum remove httpd  # Remove package  
+sudo yum update  # Update all packages  
