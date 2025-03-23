@@ -1,0 +1,1 @@
+Vim is a powerful text editor for DevOps.
