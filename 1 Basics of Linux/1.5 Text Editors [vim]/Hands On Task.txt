@@ -1,0 +1,5 @@
+👉 Try these challenges on your Linux system:
+1️⃣ Create a file, change permissions to read-only for others.
+2️⃣ Start a background process and kill it.
+3️⃣ Install & remove a package using apt or yum.
+4️⃣ Open a file in Vim, edit it, and save it.
