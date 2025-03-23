@@ -1,0 +1,2 @@
+chown user:group file.txt  # Change owner  
+chown -R user:group folder/  # Change owner recursively  
