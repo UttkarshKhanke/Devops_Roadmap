@@ -1,0 +1,4 @@
+sudo apt update      # Update package lists  
+sudo apt upgrade     # Upgrade installed packages  
+sudo apt install nginx  # Install a package  
+sudo apt remove nginx  # Uninstall a package  
