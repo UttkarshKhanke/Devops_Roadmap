@@ -1,0 +1,1 @@
+🚀 Key Concept: TCP ensures reliable delivery, UDP is faster but unreliable.
