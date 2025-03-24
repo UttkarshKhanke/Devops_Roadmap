@@ -1,0 +1,7 @@
+Format: 192.168.1.1
+
+Class A: 1.0.0.0 - 126.255.255.255 (Large networks)
+
+Class B: 128.0.0.0 - 191.255.255.255 (Medium networks)
+
+Class C: 192.0.0.0 - 223.255.255.255 (Small networks)
