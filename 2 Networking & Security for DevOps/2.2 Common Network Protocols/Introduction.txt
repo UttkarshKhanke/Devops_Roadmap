@@ -1,0 +1,7 @@
+ HTTP (HyperText Transfer Protocol) – Used for web communication.
+🔹 HTTPS (Secure HTTP) – HTTP + TLS/SSL encryption (port 443).
+🔹 SSH (Secure Shell) – Secure remote login to servers (port 22).
+🔹 FTP (File Transfer Protocol) – Transfer files between client & server.
+🔹 DNS (Domain Name System) – Resolves domain names to IPs.
+🔹 ICMP (Internet Control Message Protocol) – Used for network diagnostics (ping).
+🔹 SNMP (Simple Network Management Protocol) – Monitors network devices.
