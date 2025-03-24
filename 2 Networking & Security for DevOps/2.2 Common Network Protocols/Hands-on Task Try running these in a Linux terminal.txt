@@ -1,0 +1,5 @@
+ping google.com   # Check connectivity  
+traceroute google.com   # See the route packets take  
+curl -I https://google.com  # Get HTTP headers  
+nslookup google.com   # Get DNS resolution  
+whois google.com   # Get domain registration details  
