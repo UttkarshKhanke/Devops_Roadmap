@@ -1,0 +1,3 @@
+Networking is structured using two models:
+1. OSI Model(7 Layers)
+2. TCP/IP Model (4 Layers)
