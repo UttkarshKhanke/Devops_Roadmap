@@ -1,0 +1,6 @@
+✅ Types of IP Addresses
+Public IP – Assigned by ISP, used on the internet.
+
+Private IP – Used in local networks (192.168.x.x, 10.x.x.x, 172.16.x.x).
+
+Loopback IP – 127.0.0.1 (your own machine).
