@@ -1,0 +1,2 @@
+systemctl restart networking  # Restart networking  
+nmcli networking off && nmcli networking on  # Turn off/on network  
