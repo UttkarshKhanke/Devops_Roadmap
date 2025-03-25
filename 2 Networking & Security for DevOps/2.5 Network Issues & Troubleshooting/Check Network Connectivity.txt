@@ -1,0 +1,2 @@
+ping 8.8.8.8  # Google's DNS  
+traceroute google.com  # Check packet route  
