@@ -1,0 +1,6 @@
+Converts domain names (www.google.com) into IP addresses (142.250.180.142).
+🔹 Works using hierarchical servers:
+
+Root Servers (.) → .com DNS → Google’s DNS
+
+Caching speeds up resolution
