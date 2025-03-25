@@ -1,0 +1,2 @@
+nslookup google.com
+dig google.com  # More detailed than nslookup
