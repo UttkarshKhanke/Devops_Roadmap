@@ -1,0 +1,4 @@
+sudo ufw enable   # Enable firewall  
+sudo ufw allow 22/tcp  # Allow SSH  
+sudo ufw deny 80/tcp  # Block HTTP  
+sudo ufw status  # Show firewall rules  
