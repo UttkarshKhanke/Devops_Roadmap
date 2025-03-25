@@ -1,0 +1,3 @@
+netstat -tulnp  # Show listening ports  
+ss -tulnp  # Alternative to netstat  
+telnet google.com 80  # Check if port 80 is open  
