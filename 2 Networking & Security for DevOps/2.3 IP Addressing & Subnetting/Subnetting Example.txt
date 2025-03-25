@@ -1,0 +1,4 @@
+CIDR Notation: 192.168.1.0/24 (Subnet Mask: 255.255.255.0, 256 addresses)
+
+ip addr show     # Show all IPs assigned  
+ip route show    # View routing table  
