@@ -1,0 +1,3 @@
+sudo apt install nginx -y
+sudo nano /etc/nginx/sites-available/default
+# Configure a reverse proxy to forward requests to another server
