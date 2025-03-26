@@ -1,0 +1,2 @@
+redis-cli set key "Hello, DevOps!"
+redis-cli get key
