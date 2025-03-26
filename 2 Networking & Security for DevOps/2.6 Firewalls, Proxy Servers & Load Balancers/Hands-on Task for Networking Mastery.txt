@@ -1,0 +1,5 @@
+1️⃣ Use ping, nslookup, traceroute to check network connectivity.
+2️⃣ Check open ports using netstat or ss.
+3️⃣ Set up a basic firewall rule with ufw.
+4️⃣ Install and configure Nginx as a reverse proxy.
+5️⃣ Install and test a Redis caching server.
