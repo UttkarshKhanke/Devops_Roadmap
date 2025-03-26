@@ -1,0 +1,2 @@
+ Forward Proxy – Clients send requests to proxy, which forwards them to the internet.
+🔹 Reverse Proxy – Clients request the proxy, which fetches from backend servers.
