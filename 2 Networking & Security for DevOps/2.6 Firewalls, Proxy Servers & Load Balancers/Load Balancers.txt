@@ -1,0 +1,3 @@
+Used to distribute traffic across multiple servers.
+🔹 Types: Round-robin, Least connections, IP Hash
+🔹 Example tools: Nginx, HAProxy, AWS ELB
