@@ -1,0 +1,10 @@
+upstream backend_servers {
+  server 192.168.1.10;
+  server 192.168.1.11;
+}
+server {
+  listen 80;
+  location / {
+    proxy_pass http://backend_servers;
+  }
+}
