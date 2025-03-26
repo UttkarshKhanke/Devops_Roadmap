@@ -1,0 +1,2 @@
+ Speeds up website/app performance by caching responses.
+🔹 Used in CDNs (Cloudflare, Akamai).
