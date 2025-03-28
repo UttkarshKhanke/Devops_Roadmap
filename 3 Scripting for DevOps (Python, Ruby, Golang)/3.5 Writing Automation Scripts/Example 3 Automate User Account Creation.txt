@@ -1,0 +1,9 @@
+import os
+
+username = "newuser"
+password = "password123"
+
+# Create user
+os.system(f"sudo useradd -m {username}")
+os.system(f"echo '{username}:{password}' | sudo chpasswd")
+print(f"User {username} created successfully!")
