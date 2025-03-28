@@ -1,0 +1,8 @@
+Library	Use Case
+os	Interact with OS (run commands, file handling)
+subprocess	Run shell commands
+requests	Work with APIs
+paramiko	SSH automation
+boto3	AWS automation
+fabric	Remote command execution
+ansible	Configuration management
