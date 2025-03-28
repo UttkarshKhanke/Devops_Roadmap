@@ -1,0 +1,7 @@
+Ensure Python is Installed :
+python3 --version
+pip3 --version
+
+if not installed:
+sudo apt install python3 python3-pip -y  # Ubuntu/Debian
+sudo yum install python3 -y  # CentOS/RHEL
