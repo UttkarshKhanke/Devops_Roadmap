@@ -1,0 +1,4 @@
+Language	Why Use It in DevOps?
+Python	Most widely used, easy syntax, powerful libraries (Ansible, Boto3, Fabric)
+Ruby	Used in Chef, great for infrastructure automation
+Golang	Used in Docker, Kubernetes, fast execution
