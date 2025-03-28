@@ -1,0 +1,1 @@
+Git is a must-have skill for DevOps. It allows you to track changes, collaborate with teams, and manage infrastructure as code. In DevOps, Git is used for CI/CD, Infrastructure as Code (IaC), and configuration management.
