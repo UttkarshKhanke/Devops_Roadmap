@@ -1,0 +1,15 @@
+Command	Description
+git init	Initialize a new Git repository
+git clone <repo_url>	Clone an existing repo
+git add <file>	Stage changes for commit
+git commit -m "message"	Commit changes
+git push origin <branch>	Push to remote repo
+git pull origin <branch>	Fetch and merge changes from remote
+git status	Check repo status
+git log	View commit history
+git branch	List branches
+git checkout <branch>	Switch branches
+git merge <branch>	Merge a branch
+git rebase <branch>	Reapply commits from another branch
+git stash	Save changes temporarily
+git reset --hard <commit>	Reset to a specific commit
