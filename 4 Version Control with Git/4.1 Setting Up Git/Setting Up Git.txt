@@ -1,0 +1,14 @@
+Check if Git is installed:
+git --version
+
+If not installed:
+# Ubuntu/Debian
+sudo apt install git -y  
+
+# CentOS/RHEL
+sudo yum install git -y
+
+
+Configure Git:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
