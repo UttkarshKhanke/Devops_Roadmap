@@ -1,0 +1,4 @@
+👉 Try these tasks to practice scripting:
+1️⃣ Write a Python script to ping a server and log results.
+2️⃣ Write a Python script to list files in a directory and delete .log files.
+3️⃣ Write a Python script to SSH into a remote server and execute a command.
