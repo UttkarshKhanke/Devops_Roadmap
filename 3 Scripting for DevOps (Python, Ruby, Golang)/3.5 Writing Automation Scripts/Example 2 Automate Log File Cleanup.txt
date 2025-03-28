@@ -1,0 +1,7 @@
+import os
+
+log_dir = "/var/logs/"
+for log_file in os.listdir(log_dir):
+    if log_file.endswith(".log"):
+        os.remove(os.path.join(log_dir, log_file))
+        print(f"Deleted: {log_file}")
