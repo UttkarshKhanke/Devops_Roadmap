@@ -1,0 +1,2 @@
+chmod 400 mykey.pem  # Set correct permissions
+ssh -i mykey.pem ec2-user@<EC2_PUBLIC_IP>
