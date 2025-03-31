@@ -1,0 +1,5 @@
+If two people change the same part of a file, Git will ask you to resolve conflicts.
+🚀 Steps to Fix a Merge Conflict: 1️⃣ Run git merge feature-branch
+2️⃣ Open the conflicting file (Git marks conflicts like this)
+3️⃣ Manually edit the file to keep the correct version.
+4️⃣ Add and commit the changes:
