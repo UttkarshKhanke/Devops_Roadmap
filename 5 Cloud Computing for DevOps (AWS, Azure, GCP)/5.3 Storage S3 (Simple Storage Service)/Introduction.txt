@@ -1,0 +1,1 @@
+S3 is used to store files, backups, logs, and static websites.
