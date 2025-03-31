@@ -1,0 +1,10 @@
+Cloud platforms are the backbone of DevOps. They provide scalable infrastructure, storage, networking, and security for applications. The three major cloud providers are:
+
+AWS (Amazon Web Services) 🌟 Most widely used
+
+Azure 🚀 Preferred for enterprises using Microsoft stack
+
+GCP (Google Cloud Platform) ⚡ Best for AI/ML and big data
+
+We'll focus on AWS, as it is the industry leader and widely used in DevOps.
+
