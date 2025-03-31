@@ -1,0 +1,4 @@
+Feature	Merge	Rebase
+History	Creates a merge commit	Rewrites history
+Commit Structure	Preserves branch commits	Linear history
+Use Case	Preserving feature branch history	Keeping a clean history
