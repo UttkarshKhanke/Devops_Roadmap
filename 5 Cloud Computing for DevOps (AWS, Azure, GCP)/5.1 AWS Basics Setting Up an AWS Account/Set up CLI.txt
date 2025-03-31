@@ -1,0 +1,3 @@
+sudo apt install awscli -y  # Ubuntu/Debian
+sudo yum install awscli -y  # CentOS/RHEL
+aws configure  # Set up AWS credentials
