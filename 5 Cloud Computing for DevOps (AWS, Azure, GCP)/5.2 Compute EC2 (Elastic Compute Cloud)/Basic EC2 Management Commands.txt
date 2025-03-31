@@ -1,0 +1,4 @@
+aws ec2 describe-instances  # List all instances
+aws ec2 stop-instances --instance-ids i-1234567890abcdef  # Stop instance
+aws ec2 start-instances --instance-ids i-1234567890abcdef  # Start instance
+aws ec2 terminate-instances --instance-ids i-1234567890abcdef  # Terminate instance
