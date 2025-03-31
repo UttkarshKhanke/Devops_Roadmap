@@ -1,0 +1,4 @@
+✅ Hands-on Task
+1️⃣ Create a new Git repository and push a simple project.
+2️⃣ Create a new branch, make changes, and merge it into main.
+3️⃣ Introduce a merge conflict, resolve it, and commit.
