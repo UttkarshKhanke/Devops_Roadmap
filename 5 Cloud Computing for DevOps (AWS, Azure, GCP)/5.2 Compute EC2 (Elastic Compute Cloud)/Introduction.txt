@@ -1,0 +1,9 @@
+EC2 is AWS’s virtual server service.
+
+✅ Launching an EC2 Instance
+1️⃣ Go to AWS Console → EC2 → Launch Instance
+2️⃣ Choose Amazon Linux 2 (Free Tier eligible)
+3️⃣ Select t2.micro instance
+4️⃣ Configure security group (Allow SSH: 22)
+5️⃣ Create & Download a key pair (e.g., mykey.pem)
+6️⃣ Click Launch
