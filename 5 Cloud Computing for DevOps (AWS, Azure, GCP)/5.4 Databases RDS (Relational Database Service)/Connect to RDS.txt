@@ -1,0 +1,1 @@
+mysql -h mydb-instance.rds.amazonaws.com -u admin -p
