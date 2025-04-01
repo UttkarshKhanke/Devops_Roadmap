@@ -1,0 +1,4 @@
+✅ Enable Static Website Hosting
+1️⃣ Go to S3 → Your Bucket → Properties → Static Website Hosting
+2️⃣ Upload index.html
+3️⃣ Your website is hosted at httpbucket-name.s3-website-region.amazonaws.com
