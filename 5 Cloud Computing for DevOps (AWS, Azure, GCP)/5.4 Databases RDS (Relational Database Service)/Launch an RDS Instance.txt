@@ -1,0 +1,5 @@
+✅ Launch an RDS Instance
+1️⃣ Go to AWS Console → RDS → Create Database
+2️⃣ Choose MySQL
+3️⃣ Select Free Tier (db.t2.micro)
+4️⃣ Configure VPC Security Group for 3306 (MySQL port)
