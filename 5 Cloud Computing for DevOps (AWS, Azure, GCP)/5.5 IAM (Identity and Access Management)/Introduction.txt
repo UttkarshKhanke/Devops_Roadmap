@@ -1,0 +1,1 @@
+IAM is used to manage users, groups, roles, and permissions.
