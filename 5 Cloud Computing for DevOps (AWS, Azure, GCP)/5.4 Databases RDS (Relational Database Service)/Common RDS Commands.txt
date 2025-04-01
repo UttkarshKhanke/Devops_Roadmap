@@ -1,0 +1,6 @@
+SHOW DATABASES;
+CREATE DATABASE devops_db;
+USE devops_db;
+CREATE TABLE users (id INT PRIMARY KEY, name VARCHAR(50));
+INSERT INTO users VALUES (1, 'John');
+SELECT * FROM users;
