@@ -1,0 +1,6 @@
+✅ Hands-on Task
+1️⃣ Launch an EC2 instance & SSH into it
+2️⃣ Create an S3 bucket and upload a file
+3️⃣ Set up an RDS MySQL database and connect
+4️⃣ Create an IAM user with S3 full access
+5️⃣ Create a simple VPC with a subnet
