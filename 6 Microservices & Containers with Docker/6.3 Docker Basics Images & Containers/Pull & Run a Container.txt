@@ -1,0 +1,2 @@
+docker pull nginx  # Pull Nginx image
+docker run -d -p 8080:80 nginx  # Run Nginx container
