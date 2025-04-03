@@ -1,0 +1,9 @@
+🚀 Why Docker?
+Lightweight: Containers share the OS kernel, making them faster than VMs.
+
+Portable: Run your app anywhere (Dev, QA, Production).
+
+Scalable: Easily deploy multiple containers.
+
+Microservices: Enables breaking apps into independent services.
+
