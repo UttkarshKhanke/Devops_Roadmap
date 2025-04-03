@@ -1,0 +1,3 @@
+Image: A template for creating containers.
+
+Container: A running instance of an image.
