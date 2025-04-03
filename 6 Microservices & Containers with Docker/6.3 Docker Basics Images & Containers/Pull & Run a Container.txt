@@ -1,2 +1,4 @@
 docker pull nginx  # Pull Nginx image
 docker run -d -p 8080:80 nginx  # Run Nginx container
+
+Now, visit http://localhost:8080 to see Nginx running.
