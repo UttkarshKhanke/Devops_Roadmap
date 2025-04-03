@@ -1,0 +1,6 @@
+Feature	Virtual Machines (VMs)	Containers (Docker)
+OS Overhead	Full OS for each VM	Shares host OS
+Startup Time	Slow (minutes)	Fast (seconds)
+Resource Usage	Heavy	Lightweight
+Isolation	Strong (Hypervisor)	Process-based
+Portability	Complex	Easy (Docker Hub)
