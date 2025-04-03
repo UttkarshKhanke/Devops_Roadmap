@@ -1,0 +1,1 @@
+VPC allows you to create isolated networks for your AWS resources.
