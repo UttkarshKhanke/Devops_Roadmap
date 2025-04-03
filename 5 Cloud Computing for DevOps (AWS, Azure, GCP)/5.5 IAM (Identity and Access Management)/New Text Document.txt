@@ -1,0 +1,1 @@
+aws iam attach-user-policy --user-name devops-user --policy-arn arn:aws:iam::aws:policy/AmazonS3FullAccess
