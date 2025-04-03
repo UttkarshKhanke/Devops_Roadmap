@@ -1,0 +1,2 @@
+sudo yum install docker -y
+sudo systemctl enable --now docker
