@@ -1,0 +1,2 @@
+mkdir flask-app && cd flask-app
+nano app.py
