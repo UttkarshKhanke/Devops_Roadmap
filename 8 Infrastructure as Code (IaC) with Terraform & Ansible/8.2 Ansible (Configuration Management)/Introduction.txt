@@ -1,0 +1,1 @@
+Ansible automates software installation, system configuration, and server management.
