@@ -1,0 +1,1 @@
+Terraform uses declarative configuration files (.tf) to manage cloud resources like AWS, Azure, GCP.
