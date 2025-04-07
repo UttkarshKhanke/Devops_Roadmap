@@ -1,0 +1,8 @@
+🌍 Popular CI/CD Tools
+Jenkins (Most popular, self-hosted)
+
+GitHub Actions (Best for GitHub repos)
+
+GitLab CI/CD (Built-in with GitLab)
+
+CircleCI & Travis CI (Cloud-based)
