@@ -1,0 +1,4 @@
+ Hands-on Task
+1️⃣ Install Jenkins & run a pipeline for a Dockerized Flask app
+2️⃣ Create a GitHub Actions workflow to build & deploy a container
+3️⃣ Write a .gitlab-ci.yml for GitLab CI/CD
