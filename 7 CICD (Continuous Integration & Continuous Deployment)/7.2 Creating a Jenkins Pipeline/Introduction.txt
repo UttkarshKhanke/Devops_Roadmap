@@ -1,0 +1,3 @@
+1️⃣ Go to Jenkins Dashboard → New Item → Pipeline
+2️⃣ Write a Jenkinsfile to automate build & deployment
+3️⃣ Save & Run the pipeline
