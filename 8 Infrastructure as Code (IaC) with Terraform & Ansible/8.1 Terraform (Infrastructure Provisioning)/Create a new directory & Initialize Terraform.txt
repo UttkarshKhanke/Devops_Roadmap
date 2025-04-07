@@ -1,0 +1,2 @@
+mkdir terraform-aws && cd terraform-aws
+nano main.tf
