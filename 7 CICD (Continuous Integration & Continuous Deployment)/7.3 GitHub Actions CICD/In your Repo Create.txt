@@ -1,0 +1,2 @@
+1️⃣ In your repo, create .github/workflows/deploy.yml
+2️⃣ Add this workflow:
