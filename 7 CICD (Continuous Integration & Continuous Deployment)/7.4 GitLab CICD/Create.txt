@@ -1,0 +1,2 @@
+1️⃣ Create .gitlab-ci.yml in your repo
+2️⃣ Add the following:
