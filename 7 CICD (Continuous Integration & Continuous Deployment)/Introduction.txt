@@ -1,0 +1,3 @@
+CI/CD automates software delivery, allowing faster, reliable, and consistent deployments.
+✅ CI (Continuous Integration): Automate code building, testing, and merging.
+✅ CD (Continuous Deployment/Delivery): Automate deployment to staging/production.
