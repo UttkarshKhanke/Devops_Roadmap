@@ -1,0 +1,4 @@
+IaC automates infrastructure deployment, making it scalable, consistent, and repeatable.
+✅ Provisioning (Creating resources) → Terraform
+✅ Configuration Management (Setting up resources) → Ansible
+
