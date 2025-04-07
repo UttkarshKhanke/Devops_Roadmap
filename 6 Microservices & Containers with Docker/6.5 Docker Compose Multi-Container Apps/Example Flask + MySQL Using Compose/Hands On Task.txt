@@ -1,0 +1,4 @@
+✅ Hands-on Task
+1️⃣ Run an Nginx container & access it on localhost.
+2️⃣ Write a Dockerfile for a Flask app and containerize it.
+3️⃣ Create a docker-compose.yml for Flask + MySQL & run it.
