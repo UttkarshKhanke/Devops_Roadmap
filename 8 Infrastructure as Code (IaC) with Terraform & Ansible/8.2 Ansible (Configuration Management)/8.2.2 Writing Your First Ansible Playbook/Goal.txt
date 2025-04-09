@@ -1,0 +1,1 @@
+📌 Goal: Install Nginx on a remote server
