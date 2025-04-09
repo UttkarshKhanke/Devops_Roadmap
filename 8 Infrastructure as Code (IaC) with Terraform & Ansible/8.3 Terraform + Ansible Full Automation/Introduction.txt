@@ -1,0 +1,2 @@
+1️⃣ Terraform creates an AWS EC2 instance
+2️⃣ Ansible configures & installs software
