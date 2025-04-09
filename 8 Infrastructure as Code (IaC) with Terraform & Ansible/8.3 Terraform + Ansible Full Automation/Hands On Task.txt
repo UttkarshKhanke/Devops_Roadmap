@@ -1,0 +1,4 @@
+✅ Hands-on Task
+1️⃣ Deploy an AWS EC2 instance using Terraform
+2️⃣ Write an Ansible playbook to install Nginx
+3️⃣ Integrate Terraform with Ansible for full automation
