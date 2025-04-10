@@ -1,0 +1,9 @@
+✅ Why K8s?
+
+Auto-healing: Restarts failed containers
+
+Load balancing: Distributes traffic evenly
+
+Horizontal scaling: Adds/removes containers dynamically
+
+Rolling updates: Deploys new versions without downtime
