@@ -1,0 +1,7 @@
+2️⃣ Worker Node
+
+Kubelet: Talks to the API server
+
+Container Runtime: (Docker, containerd) Runs containers
+
+Kube Proxy: Manages networking
