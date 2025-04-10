@@ -1,0 +1,9 @@
+✅ Key K8s Objects
+Pods: Smallest deployable unit
+
+Deployments: Manages replicas of pods
+
+Services: Exposes pods to the network
+
+ConfigMaps & Secrets: Store configuration
+
