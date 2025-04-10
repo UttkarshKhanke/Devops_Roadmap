@@ -1,0 +1,9 @@
+1️⃣ Master Node
+
+API Server: Handles requests
+
+Controller Manager: Manages nodes/pods
+
+Scheduler: Assigns pods to nodes
+
+etcd: Stores cluster state
