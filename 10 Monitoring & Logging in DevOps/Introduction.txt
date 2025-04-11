@@ -1,0 +1,4 @@
+Monitoring & logging help track system performance, detect issues early, and debug failures.
+✅ Monitoring → Prometheus & Grafana (Metrics collection & visualization)
+✅ Logging → ELK Stack (Elasticsearch, Logstash, Kibana), Fluentd, AWS CloudWatch
+
