@@ -1,0 +1,3 @@
+kubectl logs my-pod
+kubectl describe pod my-pod
+kubectl exec -it my-pod -- binsh
