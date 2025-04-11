@@ -1,0 +1,3 @@
+Prometheus = Time-series database for collecting metrics
+Grafana = Visualization tool for real-time dashboards
+
