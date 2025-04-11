@@ -1,0 +1,4 @@
+✅ Hands-on Task
+1️⃣ Install Kubernetes (Minikube or Kubeadm)
+2️⃣ Deploy a simple Flask/Node.js app using Kubernetes
+3️⃣ Scale the app using kubectl scale
