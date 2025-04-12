@@ -1,0 +1,1 @@
+ELK = Elasticsearch (stores logs) + Logstash (processes logs) + Kibana (visualizes logs)
