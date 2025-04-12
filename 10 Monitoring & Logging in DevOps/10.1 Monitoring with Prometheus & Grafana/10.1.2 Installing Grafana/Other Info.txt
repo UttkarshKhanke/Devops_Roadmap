@@ -1,0 +1,6 @@
+👉 Access Grafana at http://localhost:3000
+(Default login: admin / admin)
+
+📌 Connect Prometheus to Grafana 1️⃣ Open Grafana → Settings → Data Sources
+2️⃣ Add Prometheus (http://localhost:9090)
+3️⃣ Create Dashboards & Alerts
