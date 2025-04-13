@@ -1,0 +1,12 @@
+input {
+  file {
+    path => "/var/log/syslog"
+    start_position => "beginning"
+  }
+}
+
+output {
+  elasticsearch {
+    hosts => ["localhost:9200"]
+  }
+}
