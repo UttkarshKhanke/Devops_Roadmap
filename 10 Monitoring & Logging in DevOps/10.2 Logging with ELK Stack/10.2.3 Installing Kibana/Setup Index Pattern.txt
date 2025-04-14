@@ -1,0 +1,6 @@
+👉 Access Kibana at http://localhost:5601
+
+📌 Set Up Index Patterns in Kibana 1️⃣ Open Kibana → Management → Index Patterns
+2️⃣ Add logstash-* as an index
+
+Now you can search logs, create dashboards, and set alerts!
