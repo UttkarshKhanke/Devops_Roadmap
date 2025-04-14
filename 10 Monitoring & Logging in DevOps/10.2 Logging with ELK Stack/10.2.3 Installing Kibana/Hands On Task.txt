@@ -1,0 +1,4 @@
+ Hands-on Task
+1️⃣ Install & configure Prometheus + Grafana
+2️⃣ Monitor CPU & memory usage of a Kubernetes pod
+3️⃣ Set up the ELK stack to collect logs from an application
