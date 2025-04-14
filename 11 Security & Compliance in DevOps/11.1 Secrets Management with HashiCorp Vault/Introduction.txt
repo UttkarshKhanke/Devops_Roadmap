@@ -1,0 +1,1 @@
+Vault helps secure, store, and tightly control access to tokens, passwords, certificates, and API keys.
