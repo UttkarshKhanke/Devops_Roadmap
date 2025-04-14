@@ -1,0 +1,8 @@
+Security is not optional in DevOps — it's built-in. This step ensures your pipelines, apps, and infrastructure are secure, compliant, and auditable.
+We’ll focus on:
+
+Secrets Management: [Vault]
+
+Vulnerability Scanning: [Trivy, Snyk]
+
+Access Controls & Compliance
