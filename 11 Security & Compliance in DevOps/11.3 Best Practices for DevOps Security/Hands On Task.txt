@@ -1,0 +1,4 @@
+✅ Hands-on Task
+1️⃣ Install Vault and store a secret
+2️⃣ Scan a Docker image using Trivy
+3️⃣ Scan a Python/Node.js project using Snyk
