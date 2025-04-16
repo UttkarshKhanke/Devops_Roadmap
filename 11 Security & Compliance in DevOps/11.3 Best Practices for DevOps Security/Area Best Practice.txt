@@ -1,0 +1,8 @@
+
+🔒 Area	✅ Best Practice
+🔑 Secrets	Use Vault, AWS Secrets Manager, Azure Key Vault
+🧪 Scanning	Run Trivy/Snyk in CI pipelines
+🕵️ Access	Implement Role-Based Access Control (RBAC)
+📜 Compliance	Generate audit logs using Vault/K8s
+🔐 TLS/HTTPS	Secure communication for all services
+🔁 Rotation	Automatically rotate secrets & tokens
