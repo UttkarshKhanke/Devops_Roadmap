@@ -1,0 +1,8 @@
+Now that your apps are deployed and monitored — let’s optimize them!
+This final step focuses on:
+
+Observability (tracing, logs, metrics, events)
+
+Performance tuning (infrastructure + app level)
+
+Reliability & SLOs/SLAs
