@@ -1,0 +1,7 @@
+➡️ Send telemetry to:
+
+Jaeger for tracing
+
+Prometheus for metrics
+
+Grafana Loki for logs
