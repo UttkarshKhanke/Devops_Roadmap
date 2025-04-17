@@ -1,0 +1,4 @@
+Instrument your app with OTel SDK (Python, Go, Node.js, Java):
+
+from opentelemetry import trace
+from opentelemetry.instrumentation.flask import FlaskInstrumentor
