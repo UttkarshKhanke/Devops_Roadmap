@@ -1,0 +1,9 @@
+They offer:
+
+Live performance dashboards
+
+DB/query tracing
+
+Error analysis & user journeys
+
+Use them to optimize slow endpoints, DB queries, memory leaks, etc.
