@@ -1,0 +1,5 @@
+🔍 Monitoring	🌐 Observability
+Detects known issues	Helps explore unknown issues
+Dashboards & Alerts	Contextual data (traces, logs, metrics)
+Prometheus + Grafana	+ OpenTelemetry, Jaeger, Loki, Tempo
+👉 You monitor performance, you observe behavior.
