@@ -1,0 +1,6 @@
+🔧 Area | 🧠 What to Tune
+Web/App Servers | Nginx threads, Node.js event loop, JVM settings
+DB Layer | Indexing, connection pooling, query optimization
+Network | Load balancer config, TLS termination, caching
+Infrastructure | Instance types, autoscaling, disk IO
+Containers | CPU/memory limits, readiness/liveness probes
