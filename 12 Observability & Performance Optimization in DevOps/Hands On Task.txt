@@ -1,0 +1,6 @@
+✅ Hands-on Task
+1️⃣ Deploy a demo app with OpenTelemetry
+2️⃣ Visualize traces in Jaeger
+3️⃣ Check logs in Grafana Loki
+4️⃣ Optimize a slow API endpoint using logs and metrics
+
