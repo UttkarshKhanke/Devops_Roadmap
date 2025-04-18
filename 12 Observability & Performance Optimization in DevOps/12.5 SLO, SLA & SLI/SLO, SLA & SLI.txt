@@ -1,0 +1,7 @@
+SLA (Agreement) – What your business promises
+
+SLO (Objective) – Target for performance (e.g., 99.9% uptime)
+
+SLI (Indicator) – Actual measured metric (latency, availability)
+
+Track your error budgets and roll back deployments if exceeded.
